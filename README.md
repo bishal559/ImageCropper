@@ -1,9 +1,9 @@
 # ImageCropper
 The ImageCropper library for Android simplifies image cropping with a customizable interface, supporting drag-and-drop, zoom, and rotation. It integrates easily with Java and Kotlin, allowing users to crop images from the gallery or camera, and handles image orientation and memory efficiently. Perfect for seamless image cropping in Android apps.
-# uCrop - Image Cropping Library for Android
+# ImageCrop - Image Cropping Library for Android
+[Screen_recording_20241021_103800.webm](https://github.com/user-attachments/assets/6c29b376-7a27-4d7d-9dd0-0863499f8c01)
 
 
-<img src="preview.gif" width="800" height="600">
 
 # Usage
 
