@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout style="@style/image_crop_WrapperIconState">
+
+    <com.bishal.imagecropper.view.widget.AspectRatioTextView
+        style="@style/image_crop_TextViewCropAspectRatio"/>
+
+</FrameLayout>
