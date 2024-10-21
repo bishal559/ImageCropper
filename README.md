@@ -22,7 +22,7 @@ The ImageCropper library for Android simplifies image cropping with a customizab
     ``` implementation 'com.github.bishal559:ImageCropper:imagecropper' ``` - lightweight general solution
 size)
 
-2. Add UCropActivity into your AndroidManifest.xml
+2. Add ImageCropActivity into your AndroidManifest.xml
 
     ```
     <activity
@@ -30,7 +30,7 @@ size)
         android:theme="@style/Theme.AppCompat.Light.NoActionBar"/>
     ```
 
-3. The uCrop configuration is created using the builder pattern.
+3. The ImageCrop configuration is created using the builder pattern.
 
    ```java
    ImageCrop.of(sourceUri, destinationUri)
@@ -64,7 +64,7 @@ size)
 
 If you want to let your users choose crop ratio dynamically, just do not call `withAspectRatio(x, y)`.
 
-uCrop builder class has method `withOptions(UCrop.Options options)` which extends library configurations.
+imageCrop builder class has method `withOptions(ImageCrop.Options options)` which extends library configurations.
 
 Currently, you can change:
 
