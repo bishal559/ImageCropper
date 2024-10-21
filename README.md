@@ -7,10 +7,6 @@ The ImageCropper library for Android simplifies image cropping with a customizab
 
 # Usage
 
-*For a working implementation, please have a look at the Sample Project - sample*
-
-<a href="https://play.google.com/store/apps/details?id=com.yalantis.ucrop.sample&utm_source=global_co&utm_medium=prtnr&utm_content=Mar2515&utm_campaign=PartBadge&pcampaignid=MKT-AC-global-none-all-co-pr-py-PartBadges-Oct1515-1"><img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" width="185" height="70"/></a>
-
 1. Include the library as a local library project.
 
 	```
@@ -97,15 +93,15 @@ Currently, you can change:
 
 ### Let us know!
 
-We’d be really happy if you sent us links to your projects where you use our component. Just send an email to github@yalantis.com And do let us know if you have any questions or suggestion regarding the library.
+We’d be really happy if you sent us links to your projects where you use our component. Just send an email to bishaladhiakri668@gmail.com And do let us know if you have any questions or suggestion regarding the library.
 
 #### Apps using ImageCrop
 
-- [FoneMoney([https://play.google.com/store/apps/details?id=com.twominds.thirty](https://play.google.com/store/apps/details?id=com.ksp.staremit)).
+- [FoneMoney]([https://play.google.com/store/apps/details?id=com.twominds.thirty](https://play.google.com/store/apps/details?id=com.ksp.staremit)).
 
 ## License
 
-    Copyright 2024, Bishal
+    Copyright 2024, Bishal Adhikari
 
     Software doesn't collect, store or transfer data to Yalantis or third parties.
     Emplacement of this Software is carried out locally at device.
