@@ -19,9 +19,8 @@ The ImageCropper library for Android simplifies image cropping with a customizab
 	}
 	```
 
-    ``` implementation 'com.github.bishal:imagecropper:1.0.0' ``` - lightweight general solution
-
-    ``` implementation 'com.github.bishal:imagecropper:1.0.0-native' ``` - get power of the native code to preserve image quality (+ about 1.5 MB to an apk size)
+    ``` implementation 'com.github.bishal559:ImageCropper:imagecropper' ``` - lightweight general solution
+size)
 
 2. Add UCropActivity into your AndroidManifest.xml
 
